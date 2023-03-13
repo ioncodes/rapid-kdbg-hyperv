@@ -85,4 +85,4 @@ Stop-VM -Name $Name -TurnOff
 ```
 
 ## Credits
-The idea is based off of [this](https://secret.club/2020/04/10/kernel_debugging_in_seconds.html) article. Some information has been directly copied from the article. The project has been adapter for Hyper-V based on my other 2 setup guides for [VMWare Workstation](https://github.com/ioncodes/kdbg-driver-workstation) and [Vagrant](https://github.com/ioncodes/kdbg-driver-vagrant).
+The idea is based off of [this](https://secret.club/2020/04/10/kernel_debugging_in_seconds.html) article. Some information has been directly copied from the article. The project has been adapter for Hyper-V based on my other 2 setup guides for [VMware Workstation](https://github.com/ioncodes/kdbg-driver-workstation) and [Vagrant](https://github.com/ioncodes/kdbg-driver-vagrant).
