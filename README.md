@@ -3,7 +3,7 @@ The following steps will guide you through the process of creating a Windows ker
 
 ## Prerequisites
 * Hyper-V
-* Windows 10/11 image file - I personally use Windows 11 Pro, but any version should work
+* Windows 10/11 image file - I personally use Windows 10 Pro, but any version should work
 
 ## Creating the VM
 1. Create the VM as you normally would. It is recommended keep all hardware requirements to a minimum. Do not start the VM yet
